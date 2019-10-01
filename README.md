@@ -9,7 +9,9 @@ There are some codes used for manuplating the neutron imaging data
 
 3- A code for adding/averaging all images to one image for each projection
 
-4-A code for creating a mask images for different sample regions and divide them by the stack of images 
+4- A code for creating a mask images for different sample regions and divide them by the stack of images 
+
+5- A code to plot data before and after correction
 
 These are the scripts that may be needed to correct the neutron imaging data before further anaylsis
 
